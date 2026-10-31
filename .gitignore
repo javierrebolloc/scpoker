@@ -1,0 +1,4 @@
+# Runtime data created on the server (rooms, locks, rate limits)
+data/*
+!data/.htaccess
+!data/index.html
